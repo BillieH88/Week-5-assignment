@@ -18,6 +18,6 @@ SO THAT I can manage my time effectively
 
 ## Snapshots 
 
-!Screenshot(https://github.com/BillieH88/Week-5-assignment/blob/main/Assets/workDay.JPG)
+!Screenshot(./assets/workDay.JPG)
 
 Website with my URL
