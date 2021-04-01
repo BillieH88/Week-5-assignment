@@ -18,6 +18,6 @@ SO THAT I can manage my time effectively
 
 ## Snapshots 
 
-!Screenshot(./assets/workDay.JPG)
+![picture1](./Assets/workDay.JPG)
 
 Website with my URL
