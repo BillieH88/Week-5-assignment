@@ -12,7 +12,7 @@ var saveBtn = document.querySelector("#save");
 var currentDay = moment().format("dddd, MMMM Do YYYY");
 var currentHour = moment().format("HH");
 $("#currentDay").text(currentDay);
-$("#currentHour").text(currentHour);
+
 
 
 
